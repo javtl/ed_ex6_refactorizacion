@@ -51,3 +51,9 @@ C:\Users\JAVI\eclipse-workspace-entornos\ed_ex6_refactorizacion>sonar-scanner
 *el error aparece en que la propiedad de sonar.token da error pero se encuentra correctamente configurada en `sonar-project.properties`*
 
 <img src="images/Captura de Pantalla cmd.png" width="300"/>
+
+| columna | columna 2 | columna 3 |
+|---------|-----------|-----------|
+| ejemplo | ejemplo   | ejemplo   |
+| ejemplo | ejemplo   | ejemplo   |
+| ejemplo | ejemplo   | ejemplo   |
