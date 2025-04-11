@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Ejercicio_1_refactorizacion"/>
+	<classpathentry kind="src" path="Ejercicio_2_javadocs"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
