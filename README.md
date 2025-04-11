@@ -9,7 +9,7 @@ docker
 docker run -d --name sonarqube_examen -p 9009:9000 sonarqube:latest
 docker ps
 ```
-
+Abrir en el navegador: http://localhost:9009
 ### Creación de proyecto local en Sonar Qube
 
 Generación de Token
